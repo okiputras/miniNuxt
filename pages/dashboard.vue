@@ -26,8 +26,7 @@
     </b-navbar>
     <!-- <b-card  -->
     <b-row>
-      <b-col cols="1">
-      </b-col>
+      <b-col cols="1" />
       <b-col cols="3">
         <b-img
           src="https://ih1.redbubble.net/image.412709073.7698/ap,550x550,12x16,1,transparent,t.png"
@@ -46,12 +45,10 @@
           area Malang
         </span>
       </b-col>
-      <b-col cols="1">
-      </b-col>
+      <b-col cols="1" />
     </b-row>
     <b-row>
-      <b-col cols="1">
-      </b-col>
+      <b-col cols="1" />
       <b-col cols="4">
         <label style="margin-bottom:0px;color:#47cf73; font-weight:bold">
           Total Toko
@@ -61,38 +58,37 @@
           500
         </span>
       </b-col>
-       <b-col cols="1" style="padding-right:opx; padding-left:0px">
+      <b-col cols="1" style="padding-right:opx; padding-left:0px">
         <div class="headerDivider" />
-       </b-col>
-      <b-col cols="5" >
+      </b-col>
+      <b-col cols="5">
         <b-button type="reset" variant="danger">
           Tambah Toko
         </b-button>
       </b-col>
-      <b-col cols="1">
-      </b-col>
+      <b-col cols="1" />
     </b-row>
     <hr>
     <listData
-    toko="oko oki palapa"
-    nama="oki putra"
-    alamat=" jalan sanan"
-    nohp="0987545"
-    bergabung="bergabung : 12 januri 1219"
+      toko="oko oki palapa"
+      nama="oki putra"
+      alamat=" jalan sanan"
+      nohp="0987545"
+      bergabung="bergabung : 12 januri 1219"
     />
     <listData
-    toko="Toko Sumber Kemakmuran"
-    nama=" Aulia Rahma"
-    alamat="  Jalan Tambora"
-    nohp="09878888545"
-    bergabung=" bergabung : 13 januri 1019"
+      toko="Toko Sumber Kemakmuran"
+      nama=" Aulia Rahma"
+      alamat="  Jalan Tambora"
+      nohp="09878888545"
+      bergabung=" bergabung : 13 januri 1019"
     />
     <listData
-    toko="oki cell"
-    nama="oki putra"
-    alamat=" jalan sanan"
-    nohp="0987545"
-    bergabung="bergabung : 20 januri 2019"
+      toko="oki cell"
+      nama="oki putra"
+      alamat=" jalan sanan"
+      nohp="0987545"
+      bergabung="bergabung : 20 januri 2019"
     />
     <!-- </b-card> -->
   </section> 

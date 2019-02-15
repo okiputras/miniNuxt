@@ -56,6 +56,7 @@ module.exports = {
     /*
     ** You can extend webpack config here
     */
+    analyze: true,
     extend(config, ctx) {
       // Run ESLint on save
       if (ctx.isDev && ctx.isClient) {

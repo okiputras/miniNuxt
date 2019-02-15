@@ -8,19 +8,19 @@
       </b-col>
       <b-col cols="8">
         <h4 style="font-size:15px;font-weight:bold">
-          {{toko}}
+          {{ toko }}
         </h4>
         <p style="margin-bottom:0px;font-size:12px;color:grey">
-         {{nama}}  
+          {{ nama }}  
         </p>
         <p style="margin-bottom:0px;font-size:12px;margin-top:0px;color:grey">
-          {{alamat}}
+          {{ alamat }}
         </p>
         <p style="margin-bottom:0px;font-size:12px;margin-top:0px;color:grey">
-          {{nohp}}
+          {{ nohp }}
         </p>
         <p style="margin-bottom:10px;font-size:12px;margin-top:0px;color:grey">
-          {{bergabung}}
+          {{ bergabung }}
         </p>
       </b-col>
     </b-row>
